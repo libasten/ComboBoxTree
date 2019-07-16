@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ComboBoxTree</name>
+    </assembly>
+    <members>
+        <member name="T:Verlinea.ComboBoxTree.ComboBoxTree">
+            <summary>
+            ComboBoxTree control is a treeview that drops down much like a combobox
+            </summary>
+        </member>
+        <member name="M:Verlinea.ComboBoxTree.ComboBoxTree.LabelEx.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Verlinea.ComboBoxTree.ComboBoxTree.LabelEx.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Verlinea.ComboBoxTree.ComboBoxTree.ButtonEx.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Verlinea.ComboBoxTree.ComboBoxTree.ButtonEx.OnMouseDown(System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Verlinea.ComboBoxTree.ComboBoxTree.ButtonEx.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Verlinea.ComboBoxTree.ComboBoxTree.ButtonEx.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+    </members>
+</doc>
